@@ -1,0 +1,91 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+>>
+endobj
+4 0 obj
+<<
+/Length 500
+>>
+stream
+BT
+/F1 18 Tf
+50 750 Td
+(SHAIK NAGUR SHARIF) Tj
+/F1 12 Tf
+0 -30 Td
+(SDET / QA Automation Engineer + Full-Stack Developer) Tj
+0 -25 Td
+(Email: your-email@example.com | Location: India) Tj
+0 -40 Td
+(PROFESSIONAL SUMMARY) Tj
+/F1 10 Tf
+0 -20 Td
+(SDET with 3+ years of experience in UI Automation, API Testing, Database Testing,) Tj
+0 -15 Td
+(and backend debugging. Currently developing full-stack applications using React,) Tj
+0 -15 Td
+(Node.js, TypeScript, and AWS. Cross-functional engineer who can test, debug,) Tj
+0 -15 Td
+(automate, and develop.) Tj
+0 -30 Td
+/F1 12 Tf
+(SKILLS) Tj
+/F1 10 Tf
+0 -20 Td
+(Automation: Playwright, Selenium, PyTest, Cucumber, TestNG) Tj
+0 -15 Td
+(Full-Stack: React, Node.js, TypeScript, Express, Next.js) Tj
+0 -15 Td
+(Testing: API Testing, Database Testing, E2E Testing, SIT/UAT) Tj
+0 -15 Td
+(Tools: Postman, Git, Jira, VS Code, IntelliJ, DBeaver, AWS) Tj
+ET
+endstream
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+xref
+0 6
+0000000000 65535 f
+0000000015 00000 n
+0000000068 00000 n
+0000000125 00000 n
+0000000270 00000 n
+0000000821 00000 n
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+900
+%%EOF

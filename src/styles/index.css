@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary-50: #e3f2ff;
+  --color-primary-100: #b6d9ff;
+  --color-primary-200: #89c0ff;
+  --color-primary-300: #5da7ff;
+  --color-primary-400: #308eff;
+  --color-primary-500: #2563eb;
+  --color-primary-600: #1e4ecc;
+  --color-primary-700: #1739aa;
+  
+  --color-accent-400: #ff7e55;
+  --color-accent-500: #ff6b35;
+  --color-accent-600: #ff4f1a;
+  
+  --color-neon-blue: #00e5ff;
+  --color-neon-purple: #9d4bff;
+  --color-neon-pink: #ff4dd6;
+  
+  --color-bg-900: #05070f;
+  --color-bg-800: #0b1020;
+  --color-bg-700: #151b2f;
+  
+  --shadow-neon: 0 0 25px rgba(0, 229, 255, 0.25);
+  --shadow-deep: 0 12px 50px rgba(0, 0, 0, 0.45);
+  --shadow-card: 0 8px 30px rgba(0, 0, 0, 0.25);
+}
+
+:root {
+  --bg: #0b1020;
+  --card: rgba(255,255,255,0.03);
+  --border: rgba(255,255,255,0.08);
+  --neon: #00e5ff;
+  --max-layout-width: 2560px;
+}
+
+/* Responsive Container - supports up to 2560px */
+@media (min-width: 1920px) {
+  :root {
+    --max-layout-width: 2560px;
+  }
+}
+
+body {
+  background-color: var(--bg);
+  color: #ffffff;
+}
