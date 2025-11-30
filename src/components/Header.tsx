@@ -114,7 +114,7 @@ export default function Header() {
         return () => { document.body.style.overflow = '' }
     }, [visible])
     return (
-        <header className="relative max-w-6xl mx-auto px-6 py-6 flex justify-between items-center">
+        <header className="relative max-layout py-6 flex justify-between items-center">
             <Link to="/" className="flex items-center gap-3">
                 <div className="w-10 h-10 rounded-full flex items-center justify-center bg-linear-to-r from-primary-500 to-accent-500 shadow-neon">
                     <img src="/3dstudentAvatar.png" alt="logo" className="w-8 h-8 rounded-full" />
